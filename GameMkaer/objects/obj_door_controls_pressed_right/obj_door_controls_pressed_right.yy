@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_door_controls_pressed",
+  "%Name":"obj_door_controls_pressed_right",
   "eventList":[],
   "managed":true,
-  "name":"obj_door_controls_pressed",
+  "name":"obj_door_controls_pressed_right",
   "overriddenProperties":[],
   "parent":{
     "name":"Door Buttons",

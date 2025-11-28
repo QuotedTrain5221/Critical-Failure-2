@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Doors",
-    "path":"folders/Sprites/Doors.yy",
+    "name":"Close Up",
+    "path":"folders/Sprites/Doors/Close Up.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -1,9 +1,9 @@
 {
   "$GMObject":"",
-  "%Name":"obj_door_controls_off",
+  "%Name":"obj_door_controls_off_right",
   "eventList":[],
   "managed":true,
-  "name":"obj_door_controls_off",
+  "name":"obj_door_controls_off_right",
   "overriddenProperties":[],
   "parent":{
     "name":"Door Buttons",

@@ -19,14 +19,15 @@
   "height":1050,
   "HTile":false,
   "layers":[
+    {"$GMImageLayer":"","%Name":"1b38c8db-e80d-4dcb-aded-f910e86c5ea0","blendMode":0,"displayName":"Layer 1","isLocked":false,"name":"1b38c8db-e80d-4dcb-aded-f910e86c5ea0","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
     {"$GMImageLayer":"","%Name":"3d8c6841-426b-4551-990c-ae5c9de9ef9b","blendMode":0,"displayName":"default","isLocked":false,"name":"3d8c6841-426b-4551-990c-ae5c9de9ef9b","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
   ],
   "name":"spr_right_door_front_view",
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Up Close Scenes",
-    "path":"folders/Sprites/Up Close Scenes.yy",
+    "name":"Up Close Zones",
+    "path":"folders/Sprites/Up Close Zones.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

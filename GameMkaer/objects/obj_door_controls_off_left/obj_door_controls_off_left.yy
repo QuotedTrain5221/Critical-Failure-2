@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_left_door_open_up_close",
+  "%Name":"obj_door_controls_off_left",
   "eventList":[],
   "managed":true,
-  "name":"obj_left_door_open_up_close",
+  "name":"obj_door_controls_off_left",
   "overriddenProperties":[],
   "parent":{
-    "name":"Doors",
-    "path":"folders/Objects/Office Objects/Doors.yy",
+    "name":"Door Buttons",
+    "path":"folders/Objects/obj Buttons/Door Buttons.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -27,7 +27,10 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":null,
+  "spriteId":{
+    "name":"spr_door_controls_off",
+    "path":"sprites/spr_door_controls_off/spr_door_controls_off.yy",
+  },
   "spriteMaskId":null,
   "visible":true,
 }
