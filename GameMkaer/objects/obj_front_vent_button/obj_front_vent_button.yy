@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_front_vent_button",
-    "path":"sprites/spr_front_vent_button/spr_front_vent_button.yy",
+    "name":"spr_front_vent_controls_on",
+    "path":"sprites/spr_front_vent_controls_on/spr_front_vent_controls_on.yy",
   },
   "spriteMaskId":null,
   "visible":true,

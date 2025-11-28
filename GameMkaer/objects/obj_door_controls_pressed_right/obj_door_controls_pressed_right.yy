@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_door_controls_on",
-    "path":"sprites/spr_door_controls_on/spr_door_controls_on.yy",
+    "name":"spr_door_controls_on_left",
+    "path":"sprites/spr_door_controls_on_left/spr_door_controls_on_left.yy",
   },
   "spriteMaskId":null,
   "visible":true,
