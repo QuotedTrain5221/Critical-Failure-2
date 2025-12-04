@@ -1,1 +1,8 @@
-camera_create_view(room_0,room_0,1200,700,0,obj_security_cam_hud,x_speed,y_speed,x_border,y_border)
+if (instance_exists(obj_player)){
+	var camx = obj_player.x = 1;
+	var camy = obj_player.y = 1;
+}
+	
+	camera_set_view_pos(view_camera[0],camx,camy);
+	
+	

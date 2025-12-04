@@ -28,6 +28,7 @@
     {"$GMFolder":"","%Name":"Office Objects","folderPath":"folders/Objects/Office Objects.yy","name":"Office Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Doors","folderPath":"folders/Objects/Office Objects/Doors.yy","name":"Doors","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Oxygen and Timer Objects","folderPath":"folders/Objects/Oxygen and Timer Objects.yy","name":"Oxygen and Timer Objects","resourceType":"GMFolder","resourceVersion":"2.0",},
+    {"$GMFolder":"","%Name":"Player","folderPath":"folders/Objects/Player.yy","name":"Player","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Rooms","folderPath":"folders/Rooms.yy","name":"Rooms","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Scripts","folderPath":"folders/Scripts.yy","name":"Scripts","resourceType":"GMFolder","resourceVersion":"2.0",},
     {"$GMFolder":"","%Name":"Sequences","folderPath":"folders/Sequences.yy","name":"Sequences","resourceType":"GMFolder","resourceVersion":"2.0",},
@@ -102,6 +103,7 @@
     {"id":{"name":"obj_options","path":"objects/obj_options/obj_options.yy",},},
     {"id":{"name":"obj_oxygen_flash","path":"objects/obj_oxygen_flash/obj_oxygen_flash.yy",},},
     {"id":{"name":"obj_oxygen","path":"objects/obj_oxygen/obj_oxygen.yy",},},
+    {"id":{"name":"obj_player","path":"objects/obj_player/obj_player.yy",},},
     {"id":{"name":"obj_quit","path":"objects/obj_quit/obj_quit.yy",},},
     {"id":{"name":"obj_right_door_closed_up_close","path":"objects/obj_right_door_closed_up_close/obj_right_door_closed_up_close.yy",},},
     {"id":{"name":"obj_right_door_front_view","path":"objects/obj_right_door_front_view/obj_right_door_front_view.yy",},},
@@ -119,7 +121,7 @@
     {"id":{"name":"obj_zone_7","path":"objects/obj_zone_7/obj_zone_7.yy",},},
     {"id":{"name":"obj_zone_8","path":"objects/obj_zone_8/obj_zone_8.yy",},},
     {"id":{"name":"rm_office","path":"rooms/rm_office/rm_office.yy",},},
-    {"id":{"name":"rm_start_up_screen","path":"rooms/rm_start_up_screen/rm_start_up_screen.yy",},},
+    {"id":{"name":"rm_start_up_screen_init","path":"rooms/rm_start_up_screen_init/rm_start_up_screen_init.yy",},},
     {"id":{"name":"snd_start_up_screen","path":"sounds/snd_start_up_screen/snd_start_up_screen.yy",},},
     {"id":{"name":"spr_amcd_00_prototype","path":"sprites/spr_amcd_00_prototype/spr_amcd_00_prototype.yy",},},
     {"id":{"name":"spr_amcd_01_k9","path":"sprites/spr_amcd_01_k9/spr_amcd_01_k9.yy",},},
@@ -185,7 +187,7 @@
   "resourceVersion":"2.0",
   "RoomOrderNodes":[
     {"roomId":{"name":"rm_office","path":"rooms/rm_office/rm_office.yy",},},
-    {"roomId":{"name":"rm_start_up_screen","path":"rooms/rm_start_up_screen/rm_start_up_screen.yy",},},
+    {"roomId":{"name":"rm_start_up_screen_init","path":"rooms/rm_start_up_screen_init/rm_start_up_screen_init.yy",},},
   ],
   "templateType":"game",
   "TextureGroups":[

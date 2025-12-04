@@ -2,9 +2,9 @@
   "$GMSprite":"v2",
   "%Name":"spr_security_cam_hud",
   "bboxMode":0,
-  "bbox_bottom":699,
+  "bbox_bottom":1079,
   "bbox_left":0,
-  "bbox_right":1199,
+  "bbox_right":1919,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -16,7 +16,7 @@
   ],
   "gridX":0,
   "gridY":0,
-  "height":700,
+  "height":1080,
   "HTile":false,
   "layers":[
     {"$GMImageLayer":"","%Name":"a7878bdc-4ece-4b74-be72-db693c996872","blendMode":0,"displayName":"default","isLocked":false,"name":"a7878bdc-4ece-4b74-be72-db693c996872","opacity":100.0,"resourceType":"GMImageLayer","resourceVersion":"2.0","visible":true,},
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":1200,
+  "width":1920,
 }

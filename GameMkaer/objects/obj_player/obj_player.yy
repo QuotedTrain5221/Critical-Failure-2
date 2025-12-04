@@ -1,16 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_office",
+  "%Name":"obj_player",
   "eventList":[],
   "managed":true,
-  "name":"obj_office",
+  "name":"obj_player",
   "overriddenProperties":[],
   "parent":{
-    "name":"obj Main Zones",
-    "path":"folders/Objects/obj Main Zones.yy",
+    "name":"Player",
+    "path":"folders/Objects/Player.yy",
   },
   "parentObjectId":null,
-  "persistent":true,
+  "persistent":false,
   "physicsAngularDamping":0.1,
   "physicsDensity":0.5,
   "physicsFriction":0.2,
@@ -27,10 +27,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":true,
-  "spriteId":{
-    "name":"spr_office",
-    "path":"sprites/spr_office/spr_office.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
