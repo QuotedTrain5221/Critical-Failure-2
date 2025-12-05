@@ -1,1 +1,1 @@
-room_goto(rm_office)
+room_goto_next()
